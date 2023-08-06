@@ -10,4 +10,4 @@ app.get('/', (request, response)=>{
 
 const PORT = 6969
 
-app.listen(PORT, console.log(`App is running on htte:localhost:${PORT}`))
+app.listen(PORT, console.log(`App is running on http://localhost:${PORT}`))
